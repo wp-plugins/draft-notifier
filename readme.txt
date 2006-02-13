@@ -3,9 +3,7 @@ Tags: draft, notification, notify
 Contributors: mdawaffe
 
 Draft Notifier sends a notification email to your blog's admin address when a 
-post written by a level 1 user is saved or edited.  This provides notification 
-that the level 1 user has a new draft which will need to be approved (published)
-by a higher level users.
+post is written by a Contributor or when such a post is edited.
 
 == Installation ==
 
