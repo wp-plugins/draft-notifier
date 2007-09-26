@@ -5,6 +5,8 @@ Contributors: mdawaffe
 Draft Notifier sends a notification email to your blog's admin address when a 
 post is written by a Contributor or when such a post is edited.
 
+Testing plugin repository.
+
 == Installation ==
 
 1. Upload the plugin to your plugins folder: `wp-content/plugins/`
