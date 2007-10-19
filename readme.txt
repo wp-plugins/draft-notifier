@@ -14,4 +14,4 @@ Draft Notifier sends a notification email to your blog's admin address when a po
 
 = To what email address is the notification sent? =
 
-The email address used is the one defined in <a href="http://codex.wordpress.org/Administration_Panels">Administration Panels</a>: <a href="http://codex.wordpress.org/Administration_Panels#Options_-_Configuration_Settings">Options</a>-><a href="http://codex.wordpress.org/General_Options_SubPanel">General</a> / Email address.  This is *not* necessarily the same as the email address defined in the Admin user's user profile.
+The email address used is the one defined in <a href="http://codex.wordpress.org/Administration_Panels">Administration Panels</a>: <a href="http://codex.wordpress.org/Administration_Panels#Options_-_Configuration_Settings">Options</a>-><a href="http://codex.wordpress.org/General_Options_SubPanel">General</a> / Email address.  This is *not* necessarily the same as the email address defined in the admin user's user profile.
