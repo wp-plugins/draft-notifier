@@ -3,7 +3,7 @@
 Plugin Name: Draft Notifier
 Plugin URI: http://blogwaffe.com/2005/04/22/275/
 Description: Draft Notifier sends a notification email to your blog's admin address when a post written by a Contributor is Submitted for Review.
-Version: 1.2
+Version: 1.2.1
 Author: Michael D. Adams
 Author URI: http://blogwaffe.com/
 */
@@ -12,6 +12,8 @@ Author URI: http://blogwaffe.com/
 Released under the GPL license
 http://www.gnu.org/licenses/gpl.txt
 */
+
+if ( !defined( 'ABSPATH' ) ) exit;
 
 function mda_draft_notifier( $post_ID ) {
 	global $current_user;
