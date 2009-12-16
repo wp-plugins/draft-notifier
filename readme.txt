@@ -2,8 +2,8 @@
 Tags: draft, notification, notify
 Contributors: mdawaffe
 Requires at least: 2.3.1
-Tested up to: 2.7
-Stable tag: trunk
+Tested up to: 2.9
+Stable tag: 1.2.1
 
 Draft Notifier sends a notification email to your blog's admin address when a post written by a Contributor is Submitted for Review.
 
